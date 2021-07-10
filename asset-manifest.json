@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rizukilearnreact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rizukilearnreact/static/js/main.522995a5.chunk.js",
+    "main.js.map": "/rizukilearnreact/static/js/main.522995a5.chunk.js.map",
+    "runtime-main.js": "/rizukilearnreact/static/js/runtime-main.bf9b88f5.js",
+    "runtime-main.js.map": "/rizukilearnreact/static/js/runtime-main.bf9b88f5.js.map",
+    "static/js/2.8bcc8054.chunk.js": "/rizukilearnreact/static/js/2.8bcc8054.chunk.js",
+    "static/js/2.8bcc8054.chunk.js.map": "/rizukilearnreact/static/js/2.8bcc8054.chunk.js.map",
+    "static/js/3.8096e2d9.chunk.js": "/rizukilearnreact/static/js/3.8096e2d9.chunk.js",
+    "static/js/3.8096e2d9.chunk.js.map": "/rizukilearnreact/static/js/3.8096e2d9.chunk.js.map",
+    "index.html": "/rizukilearnreact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rizukilearnreact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8bcc8054.chunk.js.LICENSE.txt": "/rizukilearnreact/static/js/2.8bcc8054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9b88f5.js",
+    "static/js/2.8bcc8054.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.522995a5.chunk.js"
+  ]
+}
